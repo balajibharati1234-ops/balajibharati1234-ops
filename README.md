@@ -22,7 +22,7 @@
 ### 🛠️ Languages & Tools
 ### ⚙️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=java,flutter,dart,firebase,html,css,js,git,github,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,flutter,dart,firebase,html,css,js,mysql,git,github,linux,vscode&theme=dark" />
 </p>
 
 ### 🌐 Connect With Me

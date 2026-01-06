@@ -17,7 +17,7 @@
 
 ### 🛠️ Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=java,flutter,dart,html,css,js,sql,git,github,firebase,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,flutter,dart,html,css,js,git,github,firebase,vscode" />
 </p>
 
 ### 🌐 Connect With Me
@@ -32,13 +32,5 @@
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=balajibharati1234-ops&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balajibharati1234-ops&theme=tokyonight" />
-</p>
 
 

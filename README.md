@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Software+Engineer;Java+%7C+Flutter+Developer;Building+in+Public;Future+MNC+Engineer+%7C+Defence+Officer&font=Fira%20Code&center=true&width=600&height=45&color=00C6FF&vCenter=true&pause=1000&size=22" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Balaji Bharati</h1>
 <h3 align="center">Java & Flutter Developer | Java • Flutter • SQL | Building Real-World Projects</h3>
 
@@ -16,8 +20,9 @@
 ---
 
 ### 🛠️ Languages & Tools
+### ⚙️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=java,flutter,dart,html,css,js,git,github,firebase,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,flutter,dart,firebase,html,css,js,sql,git,github,linux,vscode&theme=dark" />
 </p>
 
 ### 🌐 Connect With Me
